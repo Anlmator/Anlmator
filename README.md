@@ -28,7 +28,7 @@ I love the process of developing creative websites. I love the challenge of find
 - Yii PHP
 - PostgreSQL
 - React
-- Vue.js
+- Go lang
 
 ## 💼 Technical Skills
 
