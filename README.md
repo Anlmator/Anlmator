@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://github.com/Anlmator/" target="_blank" rel="norefe
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻
+I'm a Backend Developer 💻
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 <a href="https://www.instagram.com/anjmator/"><img align="left" src="https://raw.githubusercontent.com/Anlmator/Anlmator/main/images/instagram.svg" alt="Georg | Instagram" width="21px"/></a>
