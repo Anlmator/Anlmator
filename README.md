@@ -35,6 +35,7 @@ I love the process of developing creative websites. I love the challenge of find
 ![](https://camo.githubusercontent.com/1b61aaa68de456dc0ed40b8fe567fe7855c6e86804b2f23036ff97cd66badc58/687474703a2f2f706f7365722e707567782e6f72672f6261646765732f706f7365722f726571756972652f706870)
 ![](https://img.shields.io/static/v1?label=code&message=Laravel&color=red&logo=laravel)
 ![](https://img.shields.io/static/v1?label=code&message=Symfony&color=white&logo=symfony)
+![](https://img.shields.io/static/v1?label=code&message=Wordpress&color=0073aa&logo=Wordpress)
 ![](https://img.shields.io/static/v1?label=code&message=Mariadb&color=4e629a&logo=mariadb)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
