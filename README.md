@@ -61,5 +61,3 @@ I love the process of developing creative websites. I love the challenge of find
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anlmator)](https://github.com/anlmator)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anlmator&layout=compact)](https://github.com/anlmator)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=anlmator.anlmator&left_color=green&right_color=red)
