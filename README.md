@@ -62,4 +62,4 @@ I love the process of developing creative websites. I love the challenge of find
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anlmator&layout=compact)](https://github.com/anlmator)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=anlmator.anlmator)](https://github.com/Anlmator/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Anlmator.Anlmator&left_color=green&right_color=red)
