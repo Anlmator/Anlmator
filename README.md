@@ -39,7 +39,7 @@ I love the process of developing creative websites. I love the challenge of find
 ![](https://img.shields.io/static/v1?label=code&message=Mariadb&color=4e629a&logo=mariadb)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=code&message=React&logo=React&color=017fa5)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 
 </br>
