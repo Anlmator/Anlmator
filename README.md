@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://github.com/Anlmator/" target="_blank" rel="noreferrer">Georg</a> 👋
+Hi there, I'm <a href="https://github.com/Anlmator/" target="_blank" rel="noreferrer">Georgy</a> 👋
 </h3>
 
 <h2 align="center">
