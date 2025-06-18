@@ -26,9 +26,7 @@ I love the process of developing creative websites. I love the challenge of find
 ## 🌱 I'm currently learning
 
 - Yii PHP
-- PostgreSQL
 - React
-- Go lang
 
 ## 💼 Technical Skills
 
