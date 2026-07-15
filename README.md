@@ -51,6 +51,4 @@ I love the process of developing creative websites. I love the challenge of find
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anlmator)](https://github.com/anlmator)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anlmator&layout=compact)](https://github.com/anlmator)
+![Animator's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Animator&theme=vue-dark&hide_border=true)
