@@ -23,11 +23,6 @@ I love the process of developing creative websites. I love the challenge of find
 - My old projects
 - Improving my skills
 
-## 🌱 I'm currently learning
-
-- Yii PHP
-- React
-
 ## 💼 Technical Skills
 
 ![](https://camo.githubusercontent.com/1b61aaa68de456dc0ed40b8fe567fe7855c6e86804b2f23036ff97cd66badc58/687474703a2f2f706f7365722e707567782e6f72672f6261646765732f706f7365722f726571756972652f706870)
